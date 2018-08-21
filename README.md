@@ -13,6 +13,7 @@
    * A Hybrid Convolutional Variational Autoencoder for Text Generation
    * Toward Controlled Generation of Text
    * Improved Variational Autoencoders for Text Modeling using Dilated
+   * Generating Sentences from a Continuous Space
 Convolutions
    
 ## GAN based
@@ -20,6 +21,7 @@ Convolutions
    *  BOUNDARY-SEEKING GENERATIVE ADVERSARIAL NETWORKS
    *  Adversarial Feature Matching for Text Generation
    *  Improved Training of Wasserstein GANs
+   *  SOBOLEV GAN
 
 ## Tool
    *  Texar: A Modularized, Versatile, and Extensible Toolbox
