@@ -12,10 +12,14 @@
 ## VAE based
    * A Hybrid Convolutional Variational Autoencoder for Text Generation
    * Toward Controlled Generation of Text
-   
+   * Improved Variational Autoencoders for Text Modeling using Dilated
+Convolutions
    
 ## GAN based
+   *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution
+   *  BOUNDARY-SEEKING GENERATIVE ADVERSARIAL NETWORKS
    *  Adversarial Feature Matching for Text Generation
+   *  Improved Training of Wasserstein GANs
 
 ## Tool
    *  Texar: A Modularized, Versatile, and Extensible Toolbox
