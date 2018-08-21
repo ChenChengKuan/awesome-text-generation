@@ -21,7 +21,7 @@
    *  Adversarial Feature Matching for Text Generation
    *  Improved Training of Wasserstein GANs
    *  SOBOLEV GAN
-## Decoder objective modifiction
+## Alternative decode objective
    * Learning to Write with Cooperative Discriminators
 ## Tool
    *  Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation
