@@ -14,7 +14,6 @@
    * Toward Controlled Generation of Text
    * Improved Variational Autoencoders for Text Modeling using Dilated
    * Generating Sentences from a Continuous Space
-Convolutions
    
 ## GAN based
    *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution
@@ -22,10 +21,10 @@ Convolutions
    *  Adversarial Feature Matching for Text Generation
    *  Improved Training of Wasserstein GANs
    *  SOBOLEV GAN
-
+## Decoder objective modifiction
+   * Learning to Write with Cooperative Discriminators
 ## Tool
-   *  Texar: A Modularized, Versatile, and Extensible Toolbox
-for Text Generation
+   *  Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation
 
 ## Others
    * SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks
