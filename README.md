@@ -83,10 +83,14 @@
 ### (Visual) Dialogue
    * Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[pdf]](https://arxiv.org/pdf/1804.08069.pdf)
       * Tiancheng Zhao, Kyusong Lee and Maxine Eskenazi *ACL 2018*
-### GAN based
+### GAN based (Adversarial Learining)
 #### Stylistic Text
    * Style Transfer Through Back-Translation [[pdf]](https://arxiv.org/pdf/1804.09000.pdf)
       * Shrimai Prabhumoye, Yulia Tsvetkov, Ruslan Salakhutdinov, Alan W Black *ACL 2018*
+   * Style Transfer in Text: Exploration and Evaluation [[pdf]](https://arxiv.org/pdf/1711.06861.pdf)
+      * Zhenxin Fu, Xiaoye Tan, Nanyun Peng, Dongyan Zhao, Rui Yan *AAAI 2018*
+   * Style Transfer from Non-Parallel Text by Cross-Alignment [[pdf]](https://arxiv.org/abs/1705.09655)
+      * Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola *NIPS 2017*
       
 #### Other
    * Conditional Generative Adversarial Networks for Commonsense Machine Comprehension [[pdf]](https://www.ijcai.org/proceedings/2017/0576.pdf)
