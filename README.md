@@ -25,11 +25,16 @@
       * Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio *CoNLL 2016*
    
 ## GAN based
-   *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution
-   *  BOUNDARY-SEEKING GENERATIVE ADVERSARIAL NETWORKS
-   *  Adversarial Feature Matching for Text Generation
-   *  Improved Training of Wasserstein GANs
-   *  SOBOLEV GAN
+   *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution [[pdf]](https://arxiv.org/abs/1611.04051)
+      * Matt J. Kusner, José Miguel Hernández-Lobato
+   *  Boundary-Seeking Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1702.08431)
+      * R Devon Hjelm, Athul Paul Jacob, Tong Che, Adam Trischler, Kyunghyun Cho, Yoshua Bengio
+   *  Adversarial Feature Matching for Text Generation [[pdf]](https://arxiv.org/abs/1706.03850) [[code]](https://github.com/dreasysnail/textGAN_public)
+      * Yizhe Zhang, Zhe Gan, Kai Fan, Zhi Chen, Ricardo Henao, Dinghan Shen, Lawrence Carin *ICML 2017*
+   *  Improved Training of Wasserstein GANs [[pdf]](https://arxiv.org/abs/1704.00028)[[code]](https://github.com/igul222/improved_wgan_training)
+      * Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville *NIPS 2017*
+   *  Sobolev GAN
+      * 
 ## Alternative decode objective
    * Learning to Write with Cooperative Discriminators
 ## Tool
