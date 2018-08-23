@@ -64,8 +64,12 @@
 #### (Visual) Dialogue
    * Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model [[pdf]](https://papers.nips.cc/paper/6635-best-of-both-worlds-transferring-knowledge-from-discriminative-learning-to-a-generative-visual-dialog-model.pdf)
    * Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Are_You_Talking_CVPR_2018_paper.pdf)
-      * Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton van den Hengel
-   
+      * Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton van den Hengel *CVPR 2018*
+   * Adversarial Learning for Neural Dialogue Generation [[pdf]](https://arxiv.org/pdf/1701.06547.pdf)
+      * Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky *EMNLP 2017*
+#### Other
+   *  Generating Reasonable and Diversified Story Ending Using Sequence to Sequence Model with Adversarial Training [[pdf]](http://www.aclweb.org/anthology/C18-1088)
+      * Zhongyang Li, Xiao Ding and Ting Liu *COLING 2018*
 ### GAN based
 #### Other
    * Conditional Generative Adversarial Networks for Commonsense Machine Comprehension [[pdf]](https://www.ijcai.org/proceedings/2017/0576.pdf)
