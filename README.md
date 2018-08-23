@@ -1,11 +1,14 @@
 # awesome-text-generation
 
 ## Reinforcement learning based
-   * SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[pdf]](https://arxiv.org/abs/1609.05473)[[code (official)]](https://github.com/LantaoYu/SeqGAN)[[code (non-official)]](https://github.com/ChenChengKuan/SeqGAN_tensorflow)[[code (non-official)]](https://github.com/suragnair/seqGAN)
+   * SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[pdf]](https://arxiv.org/abs/1609.05473)[[code (official)]](https://github.com/LantaoYu/SeqGAN)[[code (non-official)]](https://github.com/ChenChengKuan/SeqGAN_tensorflow)
       * Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu *AAAI 2017*
-   * Long Text Generation via Adversarial Training with Leaked Information
-   * MaskGAN: Better Text Generation via Filling in the______
-   * Adversarial ranking for language generation
+   * Long Text Generation via Adversarial Training with Leaked Information[[pdf]](https://arxiv.org/abs/1709.08624)[[code]](https://github.com/CR-Gjx/LeakGAN)
+      * Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang *AAAI 2018*
+   * MaskGAN: Better Text Generation via Filling in the______ [[pdf]](https://arxiv.org/abs/1801.07736)[[code]](https://github.com/tensorflow/models/tree/master/research/maskgan)
+      * William Fedus, Ian Goodfellow, Andrew M. Dai *ICLR 2018*
+   * Adversarial ranking for language generation [[pdf]](https://arxiv.org/abs/1705.11001)
+      * Kevin Lin, Dianqi Li, Xiaodong He, Zhengyou Zhang, Ming-Ting Sun
    
 ## Autoencoder based
    * Adversarially Regularized Autoencoders for Generating Discrete Structures
