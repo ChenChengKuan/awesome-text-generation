@@ -15,6 +15,8 @@
       * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
 
 ### VAE based
+   * Variational Attention for Sequence-to-Sequence Models [[pdf]](https://arxiv.org/abs/1712.08207)
+      * Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, Pascal Poupart *COLING 2018*
    * A Hybrid Convolutional Variational Autoencoder for Text Generation [[pdf]](https://arxiv.org/abs/1702.02390)
       * Stanislau Semeniuta, Aliaksei Severyn, Erhardt Barth *EMNLP 2017*
    * Toward Controlled Generation of Text [[pdf]](https://arxiv.org/abs/1703.00955)[[code]](https://github.com/wiseodd/controlled-text-generation)
@@ -75,6 +77,10 @@
    *  Generating Reasonable and Diversified Story Ending Using Sequence to Sequence Model with Adversarial Training [[pdf]](http://www.aclweb.org/anthology/C18-1088)
       * Zhongyang Li, Xiao Ding and Ting Liu *COLING 2018*
 ### GAN based
+#### Stylistic Text
+   * Style Transfer Through Back-Translation [[pdf]](https://arxiv.org/pdf/1804.09000.pdf)
+      * Shrimai Prabhumoye, Yulia Tsvetkov, Ruslan Salakhutdinov, Alan W Black *ACL 2018*
+      
 #### Other
    * Conditional Generative Adversarial Networks for Commonsense Machine Comprehension [[pdf]](https://www.ijcai.org/proceedings/2017/0576.pdf)
       * Bingning Wang, Kang Liu, Jun Zhao *IJCAI 2017*
