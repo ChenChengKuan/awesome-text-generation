@@ -61,6 +61,10 @@
    * Improved Image Captioning via Policy Gradient optimization of SPIDEr [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Improved_Image_Captioning_ICCV_2017_paper.pdf)
       * Liu, Siqi; Zhu, Zhenhai; Ye, Ning; Guadarrama, Sergio; Murphy, Kevin *ICCV 2017*
 
+#### Stylistic Text
+   *  SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks [[pdf]](https://www.ijcai.org/proceedings/2018/0618.pdf)
+      * Ke Wang, Xiaojun Wan *IJCAI 2018*
+
 #### (Visual) Dialogue
    * Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model [[pdf]](https://papers.nips.cc/paper/6635-best-of-both-worlds-transferring-knowledge-from-discriminative-learning-to-a-generative-visual-dialog-model.pdf)
    * Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Are_You_Talking_CVPR_2018_paper.pdf)
