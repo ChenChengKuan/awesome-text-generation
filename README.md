@@ -73,6 +73,8 @@
       * Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton van den Hengel *CVPR 2018*
    * Adversarial Learning for Neural Dialogue Generation [[pdf]](https://arxiv.org/pdf/1701.06547.pdf)
       * Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky *EMNLP 2017*
+   * Polite Dialogue Generation Without Parallel Data [[pdf]](https://arxiv.org/abs/1805.03162)
+      * Tong Niu, Mohit Bansal *TACL 2018*
 #### Other
    *  Generating Reasonable and Diversified Story Ending Using Sequence to Sequence Model with Adversarial Training [[pdf]](http://www.aclweb.org/anthology/C18-1088)
       * Zhongyang Li, Xiao Ding and Ting Liu *COLING 2018*
