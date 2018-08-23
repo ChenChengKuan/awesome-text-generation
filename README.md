@@ -26,19 +26,21 @@
    
 ## GAN based
    *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution [[pdf]](https://arxiv.org/abs/1611.04051)
-      * Matt J. Kusner, José Miguel Hernández-Lobato
+      * Matt J. Kusner, José Miguel Hernández-Lobato *ICLR 2018*
    *  Boundary-Seeking Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1702.08431)
       * R Devon Hjelm, Athul Paul Jacob, Tong Che, Adam Trischler, Kyunghyun Cho, Yoshua Bengio
    *  Adversarial Feature Matching for Text Generation [[pdf]](https://arxiv.org/abs/1706.03850) [[code]](https://github.com/dreasysnail/textGAN_public)
       * Yizhe Zhang, Zhe Gan, Kai Fan, Zhi Chen, Ricardo Henao, Dinghan Shen, Lawrence Carin *ICML 2017*
    *  Improved Training of Wasserstein GANs [[pdf]](https://arxiv.org/abs/1704.00028)[[code]](https://github.com/igul222/improved_wgan_training)
       * Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville *NIPS 2017*
-   *  Sobolev GAN
-      * 
+   *  Sobolev GAN [[pdf]](https://arxiv.org/abs/1711.04894)
+      * Youssef Mroueh, Chun-Liang Li, Tom Sercu, Anant Raj, Yu Cheng
 ## Alternative decode objective
-   * Learning to Write with Cooperative Discriminators
+   * Learning to Write with Cooperative Discriminators [[pdf]](https://arxiv.org/abs/1805.06087)[[code]](https://github.com/ari-holtzman/l2w)
+      * Ari Holtzman, Jan Buys, Maxwell Forbes, Antoine Bosselut, David Golub, Yejin Choi *ACL 2018*
 ## Tool
-   *  Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation
+   *  Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation [[pdf]](http://www.aclweb.org/anthology/W18-2503)
+      * Zhiting Hu, Zichao Yang, Haoran Shi, Bowen Tan, Tiancheng Zhao,Junxian He, Xiaodan Liang, Wentao Wang, Xingjiang Yu, Di Wang, Lianhui Qin, Xuezhe Ma, Hector Liu, Devendra Singh, Wangrong Zhu, Eric P. Xing *ACL 2018*
 
 ## Others
    * SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks
