@@ -11,13 +11,18 @@
       * Kevin Lin, Dianqi Li, Xiaodong He, Zhengyou Zhang, Ming-Ting Sun
    
 ## Autoencoder based
-   * Adversarially Regularized Autoencoders for Generating Discrete Structures
+   * Adversarially Regularized Autoencoders for Generating Discrete Structures [[pdf]](https://arxiv.org/abs/1706.04223)[[code]](https://github.com/jakezhaojb/ARAE)
+      * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
 
 ## VAE based
-   * A Hybrid Convolutional Variational Autoencoder for Text Generation
-   * Toward Controlled Generation of Text
-   * Improved Variational Autoencoders for Text Modeling using Dilated
-   * Generating Sentences from a Continuous Space
+   * A Hybrid Convolutional Variational Autoencoder for Text Generation [[pdf]](https://arxiv.org/abs/1702.02390)
+      * Stanislau Semeniuta, Aliaksei Severyn, Erhardt Barth *EMNLP 2017*
+   * Toward Controlled Generation of Text [[pdf]](https://arxiv.org/abs/1703.00955)[[code]](https://github.com/wiseodd/controlled-text-generation)
+      * Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing *ICML 2017*
+   * Improved Variational Autoencoders for Text Modeling using Dilated Convolutions [[pdf]](https://arxiv.org/abs/1702.08139)[[code]](https://github.com/ryokamoi/dcnn_textvae)
+      * Zichao Yang, Zhiting Hu, Ruslan Salakhutdinov, Taylor Berg-Kirkpatrick *ICML 2017*
+   * Generating Sentences from a Continuous Space [[pdf]](https://arxiv.org/abs/1511.06349)
+      * Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio *CoNLL 2016*
    
 ## GAN based
    *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution
