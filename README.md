@@ -1,6 +1,6 @@
 # awesome-text-generation
-
-## Reinforcement learning based
+## Model
+### Reinforcement learning based
    * SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[pdf]](https://arxiv.org/abs/1609.05473)[[code (official)]](https://github.com/LantaoYu/SeqGAN)[[code (non-official)]](https://github.com/ChenChengKuan/SeqGAN_tensorflow)
       * Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu *AAAI 2017*
    * Long Text Generation via Adversarial Training with Leaked Information[[pdf]](https://arxiv.org/abs/1709.08624)[[code]](https://github.com/CR-Gjx/LeakGAN)
@@ -8,13 +8,13 @@
    * MaskGAN: Better Text Generation via Filling in the______ [[pdf]](https://arxiv.org/abs/1801.07736)[[code]](https://github.com/tensorflow/models/tree/master/research/maskgan)
       * William Fedus, Ian Goodfellow, Andrew M. Dai *ICLR 2018*
    * Adversarial ranking for language generation [[pdf]](https://arxiv.org/abs/1705.11001)
-      * Kevin Lin, Dianqi Li, Xiaodong He, Zhengyou Zhang, Ming-Ting Sun
+      * Kevin Lin, Dianqi Li, Xiaodong He, Zhengyou Zhang, Ming-Ting Sun *AAAI 2018*
    
-## Autoencoder based
+### Autoencoder based
    * Adversarially Regularized Autoencoders for Generating Discrete Structures [[pdf]](https://arxiv.org/abs/1706.04223)[[code]](https://github.com/jakezhaojb/ARAE)
       * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
 
-## VAE based
+### VAE based
    * A Hybrid Convolutional Variational Autoencoder for Text Generation [[pdf]](https://arxiv.org/abs/1702.02390)
       * Stanislau Semeniuta, Aliaksei Severyn, Erhardt Barth *EMNLP 2017*
    * Toward Controlled Generation of Text [[pdf]](https://arxiv.org/abs/1703.00955)[[code]](https://github.com/wiseodd/controlled-text-generation)
@@ -24,7 +24,7 @@
    * Generating Sentences from a Continuous Space [[pdf]](https://arxiv.org/abs/1511.06349)
       * Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio *CoNLL 2016*
    
-## GAN based
+### GAN based
    *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution [[pdf]](https://arxiv.org/abs/1611.04051)
       * Matt J. Kusner, José Miguel Hernández-Lobato *ICLR 2018*
    *  Boundary-Seeking Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1702.08431)
@@ -35,13 +35,15 @@
       * Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville *NIPS 2017*
    *  Sobolev GAN [[pdf]](https://arxiv.org/abs/1711.04894)
       * Youssef Mroueh, Chun-Liang Li, Tom Sercu, Anant Raj, Yu Cheng *ICLR 2018*
-## Alternative decode objective
+### Alternative decode objective
    * Learning to Write with Cooperative Discriminators [[pdf]](https://arxiv.org/abs/1805.06087)[[code]](https://github.com/ari-holtzman/l2w)
       * Ari Holtzman, Jan Buys, Maxwell Forbes, Antoine Bosselut, David Golub, Yejin Choi *ACL 2018*
-## Tool
+### Tool
    *  Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation [[pdf]](http://www.aclweb.org/anthology/W18-2503)
       * Zhiting Hu, Zichao Yang, Haoran Shi, Bowen Tan, Tiancheng Zhao,Junxian He, Xiaodan Liang, Wentao Wang, Xingjiang Yu, Di Wang, Lianhui Qin, Xuezhe Ma, Hector Liu, Devendra Singh, Wangrong Zhu, Eric P. Xing *ACL 2018*
 
-## Others
+### Others
    * SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks
    * Neural Text Generation: Past, Present and Beyond
+
+## Applications
