@@ -73,6 +73,9 @@
       * Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton van den Hengel *CVPR 2018*
    * Adversarial Learning for Neural Dialogue Generation [[pdf]](https://arxiv.org/pdf/1701.06547.pdf)
       * Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky *EMNLP 2017*
+   * Learning cooperative visual dialog agents with deep reinforcement learning [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Das_Learning_Cooperative_Visual_ICCV_2017_paper.pdf)
+      * Abhishek Das, Satwik Kottur, José M.F. Moura, Stefan Lee *ICCV 2017*
+, Dhruv Batra1,4
    * Polite Dialogue Generation Without Parallel Data [[pdf]](https://arxiv.org/abs/1805.03162)
       * Tong Niu, Mohit Bansal *TACL 2018*
 #### Other
@@ -84,6 +87,9 @@
    * Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[pdf]](https://arxiv.org/pdf/1804.08069.pdf)
       * Tiancheng Zhao, Kyusong Lee and Maxine Eskenazi *ACL 2018*
 ### GAN based (Adversarial Learining)
+#### Image to text
+   * Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shetty_Speaking_the_Same_ICCV_2017_paper.pdf)
+      * Rakshith Shetty, Marcus Rohrbach, Lisa Anne Hendricks, Mario Fritz1 Bernt Schiele *ICCV 2017*
 #### Stylistic Text
    * Style Transfer Through Back-Translation [[pdf]](https://arxiv.org/pdf/1804.09000.pdf)
       * Shrimai Prabhumoye, Yulia Tsvetkov, Ruslan Salakhutdinov, Alan W Black *ACL 2018*
