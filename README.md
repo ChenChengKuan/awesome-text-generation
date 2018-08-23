@@ -96,3 +96,9 @@
       
    * Multimodal Storytelling via Generative Adversarial Imitation Learning [[pdf]](https://www.ijcai.org/proceedings/2017/0554.pdf)
       * Zhiqian Chen, Xuchao Zhang, Arnold P. Boedihardjo, Jing Dai, Chang-Tien Lu1, *IJCAI 2017*
+      
+ ### Other
+   * Compositional Obverter Communication Learning From Raw Visual Input [[pdf]](https://arxiv.org/abs/1804.02341)
+      * Edward Choi, Angeliki Lazaridou, Nando de Freitas *ICLR 2018*
+   * Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory [[pdf]](https://arxiv.org/abs/1704.01074)
+      * Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu *AAAI 2018*
