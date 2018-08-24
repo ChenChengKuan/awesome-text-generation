@@ -15,6 +15,9 @@
       * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
 
 ### VAE based
+   * Avoiding Latent Variable Collapse with Generative Skip Models [[pdf]](https://arxiv.org/pdf/1807.04863.pdf)
+      * Adji B. Dieng, Yoon Kim, Alexander M. Rush, David M. Blei *ICML 2018 workshop on Theoretical Foundations
+and Applications of Deep Generative Models*
    * Variational Attention for Sequence-to-Sequence Models [[pdf]](https://arxiv.org/abs/1712.08207)
       * Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, Pascal Poupart *COLING 2018*
    * A Hybrid Convolutional Variational Autoencoder for Text Generation [[pdf]](https://arxiv.org/abs/1702.02390)
@@ -86,6 +89,8 @@
 ### (Visual) Dialogue
    * Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[pdf]](https://arxiv.org/pdf/1804.08069.pdf)
       * Tiancheng Zhao, Kyusong Lee and Maxine Eskenazi *ACL 2018*
+   * Improving Variational Encoder-Decoders in Dialogue Generation [[pdf]](https://arxiv.org/pdf/1802.02032.pdf)
+      * Xiaoyu Shen, Hui Su, Shuzi Niu and Vera Demberg *AAAI 2018*
 ### GAN based (Adversarial Learining)
 #### Image to text
    * Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shetty_Speaking_the_Same_ICCV_2017_paper.pdf)
