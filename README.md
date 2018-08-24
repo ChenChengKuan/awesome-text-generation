@@ -15,6 +15,8 @@
       * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
 
 ### VAE based
+   * Semi-Amortized Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1802.02550.pdf)
+      * Yoon Kim, Sam Wiseman, Andrew C. Miller, David Sontag, Alexander M. Rush *ICML 2018*
    * Avoiding Latent Variable Collapse with Generative Skip Models [[pdf]](https://arxiv.org/pdf/1807.04863.pdf)
       * Adji B. Dieng, Yoon Kim, Alexander M. Rush, David M. Blei *ICML 2018 workshop on Theoretical Foundations
 and Applications of Deep Generative Models*
