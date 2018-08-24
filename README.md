@@ -22,6 +22,10 @@ and Applications of Deep Generative Models*
       * Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, Pascal Poupart *COLING 2018*
    * A Hybrid Convolutional Variational Autoencoder for Text Generation [[pdf]](https://arxiv.org/abs/1702.02390)
       * Stanislau Semeniuta, Aliaksei Severyn, Erhardt Barth *EMNLP 2017*
+   * Piecewise Latent Variables for Neural Variational Text Processing [[pdf]](https://www.aclweb.org/anthology/D17-1043)
+      * Iulian V. Serban1 and Alexander G. Ororbia II2 and Joelle Pineau3 and Aaron Courville1 *EMNLP 2017*
+   * Z-Forcing: Training Stochastic Recurrent Networks [[pdf]](https://arxiv.org/pdf/1711.05411.pdf)
+      * Anirudh Goyal, Alessandro Sordoni, Marc-Alexandre Côté, Nan Rosemary Ke, Yoshua Bengio *NIPS 2017*
    * Toward Controlled Generation of Text [[pdf]](https://arxiv.org/abs/1703.00955)[[code]](https://github.com/wiseodd/controlled-text-generation)
       * Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing *ICML 2017*
    * Improved Variational Autoencoders for Text Modeling using Dilated Convolutions [[pdf]](https://arxiv.org/abs/1702.08139)[[code]](https://github.com/ryokamoi/dcnn_textvae)
@@ -91,6 +95,8 @@ and Applications of Deep Generative Models*
       * Tiancheng Zhao, Kyusong Lee and Maxine Eskenazi *ACL 2018*
    * Improving Variational Encoder-Decoders in Dialogue Generation [[pdf]](https://arxiv.org/pdf/1802.02032.pdf)
       * Xiaoyu Shen, Hui Su, Shuzi Niu and Vera Demberg *AAAI 2018*
+   * A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[pdf]](https://arxiv.org/abs/1605.06069)
+      * Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio *AAAI 2017*
 ### GAN based (Adversarial Learining)
 #### Image to text
    * Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shetty_Speaking_the_Same_ICCV_2017_paper.pdf)
