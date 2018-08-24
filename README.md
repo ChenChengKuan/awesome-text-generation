@@ -97,6 +97,8 @@ and Applications of Deep Generative Models*
       * Xiaoyu Shen, Hui Su, Shuzi Niu and Vera Demberg *AAAI 2018*
    * A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[pdf]](https://arxiv.org/abs/1605.06069)
       * Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio *AAAI 2017*
+   * Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders [[pdf]]
+      * Tiancheng Zhao, Ran Zhao and Maxine Eskenazi *ACL 2017*
 ### GAN based (Adversarial Learining)
 #### Image to text
    * Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shetty_Speaking_the_Same_ICCV_2017_paper.pdf)
