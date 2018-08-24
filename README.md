@@ -99,6 +99,8 @@ and Applications of Deep Generative Models*
       * Iulian Vlad Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville, Yoshua Bengio *AAAI 2017*
    * Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders [[pdf]](https://arxiv.org/abs/1703.10960)
       * Tiancheng Zhao, Ran Zhao and Maxine Eskenazi *ACL 2017*
+   * A Conditional Variational Framework for Dialog Generation [[pdf]](https://arxiv.org/abs/1705.00316)
+      * Xiaoyu Shen, Hui Su, Yanran Li, Wenjie Li, Shuzi Niu, Yang Zhao, Akiko Aizawa, Guoping Long *ACL 2017*
 ### GAN based (Adversarial Learining)
 #### Image to text
    * Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shetty_Speaking_the_Same_ICCV_2017_paper.pdf)
