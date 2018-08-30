@@ -5,9 +5,9 @@
       * Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang *AAAI 2018*
    * MaskGAN: Better Text Generation via Filling in the______ [[pdf]](https://arxiv.org/abs/1801.07736)[[code]](https://github.com/tensorflow/models/tree/master/research/maskgan)
       * William Fedus, Ian Goodfellow, Andrew M. Dai *ICLR 2018*
-   * Adversarial ranking for language generation [[pdf]](https://arxiv.org/abs/1705.11001)
+   * Adversarial ranking for language generation [[pdf]](https://arxiv.org/abs/1705.11001)[[code]](https://github.com/desire2020/RankGAN)
       * Kevin Lin, Dianqi Li, Xiaodong He, Zhengyou Zhang, Ming-Ting Sun *AAAI 2018*
-   * Boundary-Seeking Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1702.08431)
+   * Boundary-Seeking Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1702.08431)[[code]](https://github.com/rdevon/BGAN)
       * R Devon Hjelm, Athul Paul Jacob, Tong Che, Adam Trischler, Kyunghyun Cho, Yoshua Bengio *ICLR 2018*
    * Maximum-Likelihood Augmented Discrete Generative Adversarial Networks (MaliGAN)[[pdf]](https://arxiv.org/pdf/1702.07983.pdf)
       * Tong Che, Yanran Li, Ruixiang Zhang, R Devon Hjelm, Wenjie Li, Yangqiu Song, Yoshua Bengio
@@ -19,14 +19,14 @@
       * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
 
 ### VAE based
-   * Semi-Amortized Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1802.02550.pdf)
+   * Semi-Amortized Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1802.02550.pdf)[[code]](https://github.com/harvardnlp/sa-vae)
       * Yoon Kim, Sam Wiseman, Andrew C. Miller, David Sontag, Alexander M. Rush *ICML 2018*
    * Avoiding Latent Variable Collapse with Generative Skip Models [[pdf]](https://arxiv.org/pdf/1807.04863.pdf)
       * Adji B. Dieng, Yoon Kim, Alexander M. Rush, David M. Blei *ICML 2018 workshop on Theoretical Foundations
 and Applications of Deep Generative Models*
-   * Variational Attention for Sequence-to-Sequence Models [[pdf]](https://arxiv.org/abs/1712.08207)
+   * Variational Attention for Sequence-to-Sequence Models [[pdf]](https://arxiv.org/abs/1712.08207)[[code]](https://github.com/variational-attention/tf-var-attention)
       * Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, Pascal Poupart *COLING 2018*
-   * A Hybrid Convolutional Variational Autoencoder for Text Generation [[pdf]](https://arxiv.org/abs/1702.02390)
+   * A Hybrid Convolutional Variational Autoencoder for Text Generation [[pdf]](https://arxiv.org/abs/1702.02390)[[code]](https://github.com/ryokamoi/hybrid_textvae)
       * Stanislau Semeniuta, Aliaksei Severyn, Erhardt Barth *EMNLP 2017*
    * Piecewise Latent Variables for Neural Variational Text Processing [[pdf]](https://www.aclweb.org/anthology/D17-1043)
       * Iulian V. Serban1 and Alexander G. Ororbia II2 and Joelle Pineau3 and Aaron Courville1 *EMNLP 2017*
@@ -36,7 +36,7 @@ and Applications of Deep Generative Models*
       * Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing *ICML 2017*
    * Improved Variational Autoencoders for Text Modeling using Dilated Convolutions [[pdf]](https://arxiv.org/abs/1702.08139)[[code]](https://github.com/ryokamoi/dcnn_textvae)
       * Zichao Yang, Zhiting Hu, Ruslan Salakhutdinov, Taylor Berg-Kirkpatrick *ICML 2017*
-   * Generating Sentences from a Continuous Space [[pdf]](https://arxiv.org/abs/1511.06349)
+   * Generating Sentences from a Continuous Space [[pdf]](https://arxiv.org/abs/1511.06349)[[code]](https://github.com/timbmg/Sentence-VAE)
       * Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio *CoNLL 2016*
    
 ### GAN based
@@ -46,7 +46,7 @@ and Applications of Deep Generative Models*
       * Yizhe Zhang, Zhe Gan, Kai Fan, Zhi Chen, Ricardo Henao, Dinghan Shen, Lawrence Carin *ICML 2017*
    *  Improved Training of Wasserstein GANs [[pdf]](https://arxiv.org/abs/1704.00028)[[code]](https://github.com/igul222/improved_wgan_training)
       * Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville *NIPS 2017*
-   *  Sobolev GAN [[pdf]](https://arxiv.org/abs/1711.04894)
+   *  Sobolev GAN [[pdf]](https://arxiv.org/abs/1711.04894)[[code]](https://github.com/tomsercu/SobolevGAN-SSL)
       * Youssef Mroueh, Chun-Liang Li, Tom Sercu, Anant Raj, Yu Cheng *ICLR 2018*
       
 ### Alternative decode objective
@@ -56,6 +56,8 @@ and Applications of Deep Generative Models*
 ### Tool
    *  Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation [[pdf]](http://www.aclweb.org/anthology/W18-2503)
       * Zhiting Hu, Zichao Yang, Haoran Shi, Bowen Tan, Tiancheng Zhao,Junxian He, Xiaodan Liang, Wentao Wang, Xingjiang Yu, Di Wang, Lianhui Qin, Xuezhe Ma, Hector Liu, Devendra Singh, Wangrong Zhu, Eric P. Xing *ACL 2018*
+   *  Texygen: A Benchmarking Platform for Text Generation Models [[pdf]](https://arxiv.org/abs/1802.01886)[[code]](https://github.com/geek-ai/Texygen)
+      * Yaoming Zhu, Sidi Lu, Lei Zheng, Jiaxian Guo, Weinan Zhang, Jun Wang, Yong Yu *SIGIR 2018*
 
 ### Others
    * SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks
