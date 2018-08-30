@@ -97,6 +97,8 @@ and Applications of Deep Generative Models*
       
 ### VAE based
 ### (Visual) Dialogue
+   * Variational Autoregressive Decoder for Neural Response Generation [[paper]](Coming soon)
+      * Jiachen Du, Wenjie Li, Yulan He, Ruifeng Xu, Lidong Bing and Xuan Wang *EMNLP 2018*
    * Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[pdf]](https://arxiv.org/pdf/1804.08069.pdf)
       * Tiancheng Zhao, Kyusong Lee and Maxine Eskenazi *ACL 2018*
    * Improving Variational Encoder-Decoders in Dialogue Generation [[pdf]](https://arxiv.org/pdf/1802.02032.pdf)
