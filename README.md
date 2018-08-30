@@ -1,3 +1,42 @@
+# Introduction
+This readme contains the usage of code and dataset for the body detection project (07.2018 - 08.2018) when I interned in the Deepfoce.Inc
+
+# Dataset
+* MPHB ([source link](http://parnec.nuaa.edu.cn/xtan/data/MPHB.html))
+    * This dataset contains people (~1-5) with different poses and environments (both indoor and outdoor), which is suitable for building body deteciton modelfor simpler setting
+    * Location: `/tank/body_data/MPHB`
+    * Note: The dataset stored in the current folder has been pre-processed for yolo which contain following steps (Don't need to do it again):
+        * Convert to yolo format: `python convert_label.py`
+        * Generating train/val/test list: `python train_val_split.py`
+* MPHB_neg
+    * This dataset is the combination of oirginal MPHB and negative samples (chairs, bottle) from VOC to lower the false positive rate of body detection
+    * Location `/tank/body_data/MPHB_neg`
+    * Note: To get the negative samples from VOC, please switch to `/tank/body_data/MyVOC` then run 
+        ```       
+        python collect_person.py
+        ```
+
+* CrowdHuman ([source link](http://www.crowdhuman.org/))
+    * This dataset contains mamy human in crowd setting, please refer to the original [paper links](http://www.crowdhuman.org/) for more details
+    * Location `/tank/body_data/CrowdHuman`
+
+
+
+# Training
+## YOLO preparation
+   * Cloning the yolo projet: `git clone https://github.com/pjreddie/darknet`
+   * Following the instruction in the [website](https://pjreddie.com/darknet/install/) to build the project
+   * Note: I recommend to build it with OPENCV =1, if the original make file does not work for you, please replace line 35-37 by:
+   
+```
+    ifeq ($(DEBUG), 1)
+
+        OPTS=-O4 -g
+
+    endif
+```
+
+
 # awesome-text-generation
 ## Model
 ### Reinforcement learning based
