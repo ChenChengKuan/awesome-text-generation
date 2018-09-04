@@ -1,5 +1,5 @@
 # awesome-text-generation
-A curated list of recent awesome text generation model and their application. Inspired by [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-adversarial-machine-learining](https://github.com/yenchenlin/awesome-adversarial-machine-learning) and [awesome-deep-learning-paper](https://github.com/terryum/awesome-deep-learning-papers).
+A curated list of recent awesome text generation model and their application. Inspired by [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-adversarial-machine-learining](https://github.com/yenchenlin/awesome-adversarial-machine-learning) and [awesome-deep-learning-paper](https://github.com/terryum/awesome-deep-learning-papers). Please help to contribute if you find some important work is missing.
 
 - [awesome-text-generation](#awesome-text-generation)
   * [Model](#model)
@@ -83,7 +83,8 @@ and Applications of Deep Generative Models*
       * Zhiting Hu, Zichao Yang, Haoran Shi, Bowen Tan, Tiancheng Zhao,Junxian He, Xiaodan Liang, Wentao Wang, Xingjiang Yu, Di Wang, Lianhui Qin, Xuezhe Ma, Hector Liu, Devendra Singh, Wangrong Zhu, Eric P. Xing *ACL 2018*
    *  Texygen: A Benchmarking Platform for Text Generation Models [[pdf]](https://arxiv.org/abs/1802.01886)[[code]](https://github.com/geek-ai/Texygen)
       * Yaoming Zhu, Sidi Lu, Lei Zheng, Jiaxian Guo, Weinan Zhang, Jun Wang, Yong Yu *SIGIR 2018*
-   * Neural Text Generation: Past, Present and Beyond [[pdf]]()
+   * Neural Text Generation: Past, Present and Beyond [[pdf]](https://arxiv.org/abs/1803.07133)
+      * Sidi Lu, Yaoming Zhu, Weinan Zhang, Jun Wang, Yong Yu *arxiv 2018*
 
 ## Applications
 ### Reinforcement Learning based/aided text generation
@@ -149,8 +150,7 @@ and Applications of Deep Generative Models*
    * Conditional Generative Adversarial Networks for Commonsense Machine Comprehension [[pdf]](https://www.ijcai.org/proceedings/2017/0576.pdf)
       * Bingning Wang, Kang Liu, Jun Zhao *IJCAI 2017*
    * Unsuprervised Cipher Cracking Using Discrete GANS [[pdf]](https://openreview.net/pdf?id=BkeqO7x0-)
-      * Aidan N. Gomez, Sicong Huang, Ivan Zhang, Bryan M. Li, Muhammad Osama, Łukasz Kaiser *ICLR 2018*
-      
+      * Aidan N. Gomez, Sicong Huang, Ivan Zhang, Bryan M. Li, Muhammad Osama, Łukasz Kaiser *ICLR 2018*  
    * Multimodal Storytelling via Generative Adversarial Imitation Learning [[pdf]](https://www.ijcai.org/proceedings/2017/0554.pdf)
       * Zhiqian Chen, Xuchao Zhang, Arnold P. Boedihardjo, Jing Dai, Chang-Tien Lu1, *IJCAI 2017*
       
