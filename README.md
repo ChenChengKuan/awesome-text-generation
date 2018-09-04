@@ -8,8 +8,7 @@ A curated list of recent awesome text generation model and their application. In
     + [Autoencoder based](#autoencoder-based)
     + [Reinforcement learning based](#reinforcement-learning-based)
     + [Alternative decode objective](#alternative-decode-objective)
-    + [Tool](#tool)
-    + [Others](#others)
+    + [Tool and others](#tool-and-others)
   * [Applications](#applications)
     + [Reinforcement Learning based/aided text generation](#reinforcement-learning-based-aided-text-generation)
       - [Image to text](#image-to-text)
@@ -78,15 +77,12 @@ and Applications of Deep Generative Models*
    * Learning to Write with Cooperative Discriminators [[pdf]](https://arxiv.org/abs/1805.06087)[[code]](https://github.com/ari-holtzman/l2w)
       * Ari Holtzman, Jan Buys, Maxwell Forbes, Antoine Bosselut, David Golub, Yejin Choi *ACL 2018*
       
-### Tool
+### Tool and others
    *  Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation [[pdf]](http://www.aclweb.org/anthology/W18-2503)[[website]](https://texar.io/)[[github]](https://github.com/asyml/texar)
       * Zhiting Hu, Zichao Yang, Haoran Shi, Bowen Tan, Tiancheng Zhao,Junxian He, Xiaodan Liang, Wentao Wang, Xingjiang Yu, Di Wang, Lianhui Qin, Xuezhe Ma, Hector Liu, Devendra Singh, Wangrong Zhu, Eric P. Xing *ACL 2018*
    *  Texygen: A Benchmarking Platform for Text Generation Models [[pdf]](https://arxiv.org/abs/1802.01886)[[code]](https://github.com/geek-ai/Texygen)
       * Yaoming Zhu, Sidi Lu, Lei Zheng, Jiaxian Guo, Weinan Zhang, Jun Wang, Yong Yu *SIGIR 2018*
-
-### Others
-   * SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks
-   * Neural Text Generation: Past, Present and Beyond
+   * Neural Text Generation: Past, Present and Beyond [[pdf]]()
 
 ## Applications
 ### Reinforcement Learning based/aided text generation
@@ -119,6 +115,8 @@ and Applications of Deep Generative Models*
 #### Other
    *  Generating Reasonable and Diversified Story Ending Using Sequence to Sequence Model with Adversarial Training [[pdf]](http://www.aclweb.org/anthology/C18-1088)
       * Zhongyang Li, Xiao Ding and Ting Liu *COLING 2018*
+   * SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks
+      * Ke Wang, Xiaojun Wan *IJCAI 2018*
       
 ### VAE based
 ### (Visual) Dialogue
