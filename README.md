@@ -3,11 +3,11 @@ A curated list of recent awesome text generation model and their application. In
 
 ## Table of Contents
 - [Model](#Model)
-  - [GAN](#GAN-based)
-  - [VAE](#VAE-based)
-  - [Autoencoder](#auto-encoder)
-  - [Reinforcement Learning](#reinforcement-learning)
-  - [Alternative decode objective](#alternative-decoding-objective)
+   - [GAN](#GAN-based)
+   - [VAE](#VAE-based)
+   - [Autoencoder](#auto-encoder)
+   - [Reinforcement Learning](#reinforcement-learning)
+   - [Alternative decode objective](#alternative-decoding-objective)
 - [Application](#Application)
 ## Model
 ### GAN based
