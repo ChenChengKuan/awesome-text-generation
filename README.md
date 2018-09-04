@@ -1,14 +1,29 @@
 # awesome-text-generation
 A curated list of recent awesome text generation model and their application. Inspired by [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-adversarial-machine-learining](https://github.com/yenchenlin/awesome-adversarial-machine-learning) and [awesome-deep-learning-paper](https://github.com/terryum/awesome-deep-learning-papers).
 
-## Table of Contents
-- [Model](#Model)
-   - [GAN](#GAN-based)
-   - [VAE](#VAE-based)
-   - [Autoencoder](#auto-encoder)
-   - [Reinforcement Learning](#reinforcement-learning)
-   - [Alternative decode objective](#alternative-decoding-objective)
-- [Application](#Application)
+- [awesome-text-generation](#awesome-text-generation)
+  * [Model](#model)
+    + [GAN based](#gan-based)
+    + [VAE based](#vae-based)
+    + [Autoencoder based](#autoencoder-based)
+    + [Reinforcement learning based](#reinforcement-learning-based)
+    + [Alternative decode objective](#alternative-decode-objective)
+    + [Tool](#tool)
+    + [Others](#others)
+  * [Applications](#applications)
+    + [Reinforcement Learning based/aided text generation](#reinforcement-learning-based-aided-text-generation)
+      - [Image to text](#image-to-text)
+      - [Stylistic Text](#stylistic-text)
+      - [(Visual) Dialogue](#-visual--dialogue)
+      - [Other](#other)
+    + [VAE based](#vae-based-1)
+    + [(Visual) Dialogue](#-visual--dialogue-1)
+    + [GAN based (Adversarial Learining)](#gan-based--adversarial-learining-)
+      - [Image to text](#image-to-text-1)
+      - [Stylistic Text](#stylistic-text-1)
+      - [Other](#other-1)
+    + [Other](#other-2)
+
 ## Model
 ### GAN based
    *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution [[pdf]](https://arxiv.org/abs/1611.04051)
