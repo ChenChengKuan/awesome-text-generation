@@ -1,4 +1,4 @@
-# awesome-text-generation
+# awesome-text-generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of recent awesome text generation model and their application. Inspired by [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-adversarial-machine-learining](https://github.com/yenchenlin/awesome-adversarial-machine-learning) and [awesome-deep-learning-paper](https://github.com/terryum/awesome-deep-learning-papers). Please help to contribute if you find some important works are missing.
 
 - [awesome-text-generation](#awesome-text-generation)
