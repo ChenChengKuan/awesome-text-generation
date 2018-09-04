@@ -54,7 +54,7 @@ and Applications of Deep Generative Models*
       * Ari Holtzman, Jan Buys, Maxwell Forbes, Antoine Bosselut, David Golub, Yejin Choi *ACL 2018*
       
 ### Tool
-   *  Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation [[pdf]](http://www.aclweb.org/anthology/W18-2503)
+   *  Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation [[pdf]](http://www.aclweb.org/anthology/W18-2503)[[website]](https://texar.io/)[[github]](https://github.com/asyml/texar)
       * Zhiting Hu, Zichao Yang, Haoran Shi, Bowen Tan, Tiancheng Zhao,Junxian He, Xiaodan Liang, Wentao Wang, Xingjiang Yu, Di Wang, Lianhui Qin, Xuezhe Ma, Hector Liu, Devendra Singh, Wangrong Zhu, Eric P. Xing *ACL 2018*
    *  Texygen: A Benchmarking Platform for Text Generation Models [[pdf]](https://arxiv.org/abs/1802.01886)[[code]](https://github.com/geek-ai/Texygen)
       * Yaoming Zhu, Sidi Lu, Lei Zheng, Jiaxian Guo, Weinan Zhang, Jun Wang, Yong Yu *SIGIR 2018*
