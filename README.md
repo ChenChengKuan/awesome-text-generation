@@ -159,3 +159,19 @@ and Applications of Deep Generative Models*
       * Edward Choi, Angeliki Lazaridou, Nando de Freitas *ICLR 2018*
    * Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory [[pdf]](https://arxiv.org/abs/1704.01074)
       * Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu *AAAI 2018*
+
+
+## Contribution
+Please help contribute this list by contacting [me](https://kuanchen.netlify.com/) or add [pull request](https://github.com/ChenChengKuan/awesome-text-generation/pulls)
+
+Markdown format:
+```markdown
+- Paper Name [[pdf]](link) [[code]](link)
+  - Author 1, Author 2, Author 3. *Conference'Year*
+```
+
+## License
+
+[![PDM](https://licensebuttons.net/p/mark/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [kuanchen](https://kuanchen.netlify.com/) has waived all copyright and related or neighboring rights to this work.
