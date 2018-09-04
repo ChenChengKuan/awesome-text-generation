@@ -16,12 +16,13 @@ A curated list of recent awesome text generation model and their application. In
       - [(Visual) Dialogue](#-visual--dialogue)
       - [Other](#other)
     + [VAE based](#vae-based-1)
-    + [(Visual) Dialogue](#-visual--dialogue-1)
+      - [(Visual) Dialogue](#-visual--dialogue-1)
     + [GAN based (Adversarial Learining)](#gan-based--adversarial-learining-)
       - [Image to text](#image-to-text-1)
       - [Stylistic Text](#stylistic-text-1)
       - [Other](#other-1)
     + [Other](#other-2)
+
 
 ## Model
 ### GAN based
@@ -119,7 +120,7 @@ and Applications of Deep Generative Models*
       * Ke Wang, Xiaojun Wan *IJCAI 2018*
       
 ### VAE based
-### (Visual) Dialogue
+#### (Visual) Dialogue
    * Variational Autoregressive Decoder for Neural Response Generation [[paper]](Coming soon)
       * Jiachen Du, Wenjie Li, Yulan He, Ruifeng Xu, Lidong Bing and Xuan Wang *EMNLP 2018*
    * Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[pdf]](https://arxiv.org/pdf/1804.08069.pdf)
