@@ -120,8 +120,6 @@ and Applications of Deep Generative Models*
 #### Other
    *  Generating Reasonable and Diversified Story Ending Using Sequence to Sequence Model with Adversarial Training [[pdf]](http://www.aclweb.org/anthology/C18-1088)
       * Zhongyang Li, Xiao Ding and Ting Liu *COLING 2018*
-   * SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks
-      * Ke Wang, Xiaojun Wan *IJCAI 2018*
       
 ### VAE based
 #### (Visual) Dialogue
