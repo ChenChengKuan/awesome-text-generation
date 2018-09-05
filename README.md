@@ -1,7 +1,5 @@
 # awesome-text-generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of recent awesome text generation model and their application. Inspired by [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-adversarial-machine-learining](https://github.com/yenchenlin/awesome-adversarial-machine-learning) and [awesome-deep-learning-paper](https://github.com/terryum/awesome-deep-learning-papers). Please help to contribute if you find some important works are missing.
-
-- [awesome-text-generation](#awesome-text-generation)
   * [Model](#model)
     + [GAN based](#gan-based)
     + [VAE based](#vae-based)
@@ -17,12 +15,12 @@ A curated list of recent awesome text generation model and their application. In
       - [Other](#other)
     + [VAE based](#vae-based-1)
       - [(Visual) Dialogue](#-visual--dialogue-1)
+      - [Stylistic Text](#stylistic-text-1)
     + [GAN based (Adversarial Learining)](#gan-based--adversarial-learining-)
       - [Image to text](#image-to-text-1)
-      - [Stylistic Text](#stylistic-text-1)
+      - [Stylistic Text](#stylistic-text-2)
       - [Other](#other-1)
     + [Other](#other-2)
-
 
 ## Model
 ### GAN based
