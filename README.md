@@ -104,7 +104,10 @@ and Applications of Deep Generative Models*
       * Ke Wang, Xiaojun Wan *IJCAI 2018*
 
 #### (Visual) Dialogue
-   * Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model [[pdf]](https://papers.nips.cc/paper/6635-best-of-both-worlds-transferring-knowledge-from-discriminative-learning-to-a-generative-visual-dialog-model.pdf)
+   * Discriminative Deep Dyna-Q: Robust Planning for Dialogue Policy Learning [[pdf]](https://arxiv.org/pdf/1808.09442.pdf)
+      * Shang-Yu Su Xiujun Li Jianfeng Gao Jingjing Liu Yun-Nung Chen *EMNLP 2018*
+   * Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning[[pdf]](https://arxiv.org/abs/1801.06176)
+      * Baolin Peng, Xiujun Li, Jianfeng Gao, Jingjing Liu, Kam-Fai Wong, Shang-Yu Su *ACL 2018*
    * Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Are_You_Talking_CVPR_2018_paper.pdf)
       * Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton van den Hengel *CVPR 2018*
    * Adversarial Learning for Neural Dialogue Generation [[pdf]](https://arxiv.org/pdf/1701.06547.pdf)
