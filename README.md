@@ -1,5 +1,7 @@
 # awesome-text-generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of recent awesome text generation model and their application. Inspired by [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-adversarial-machine-learining](https://github.com/yenchenlin/awesome-adversarial-machine-learning) and [awesome-deep-learning-paper](https://github.com/terryum/awesome-deep-learning-papers). Please help to contribute if you find some important works are missing.
+
+- [awesome-text-generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)](#awesome-text-generation----awesome--https---awesomere-badgesvg---https---awesomere-)
   * [Model](#model)
     + [GAN based](#gan-based)
     + [VAE based](#vae-based)
@@ -8,7 +10,7 @@ A curated list of recent awesome text generation model and their application. In
     + [Alternative decode objective](#alternative-decode-objective)
     + [Tool and others](#tool-and-others)
   * [Applications](#applications)
-    + [Reinforcement Learning based/aided text generation](#reinforcement-learning-based-aided-text-generation)
+    + [Reinforcement Learning based text generation](#reinforcement-learning-based-text-generation)
       - [Image to text](#image-to-text)
       - [Stylistic Text](#stylistic-text)
       - [(Visual) Dialogue](#-visual--dialogue)
@@ -85,7 +87,7 @@ and Applications of Deep Generative Models*
       * Sidi Lu, Yaoming Zhu, Weinan Zhang, Jun Wang, Yong Yu *arxiv 2018*
 
 ## Applications
-### Reinforcement Learning based/aided text generation
+### Reinforcement Learning based text generation
 #### Image to text
 
    * Recurrent Topic-Transition GAN for Visual Paragraph Generation [[pdf]](https://arxiv.org/abs/1703.07022)
@@ -136,7 +138,7 @@ and Applications of Deep Generative Models*
 #### Stylistic Text
    * Adversarially Regularized Autoencoders for Generating Discrete Structures [[pdf]](https://arxiv.org/abs/1706.04223)[[code]](https://github.com/jakezhaojb/ARAE)
       * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
-    * Toward Controlled Generation of Text [[pdf]](https://arxiv.org/abs/1703.00955)[[code]](https://github.com/wiseodd/controlled-text-generation)
+   * Toward Controlled Generation of Text [[pdf]](https://arxiv.org/abs/1703.00955)[[code]](https://github.com/wiseodd/controlled-text-generation)
       * Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing *ICML 2017*
 
 ### GAN based (Adversarial Learining)
