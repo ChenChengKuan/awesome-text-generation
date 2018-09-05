@@ -135,6 +135,12 @@ and Applications of Deep Generative Models*
       * Tiancheng Zhao, Ran Zhao and Maxine Eskenazi *ACL 2017*
    * A Conditional Variational Framework for Dialog Generation [[pdf]](https://arxiv.org/abs/1705.00316)
       * Xiaoyu Shen, Hui Su, Yanran Li, Wenjie Li, Shuzi Niu, Yang Zhao, Akiko Aizawa, Guoping Long *ACL 2017*
+#### Stylistic Text
+   * Adversarially Regularized Autoencoders for Generating Discrete Structures [[pdf]](https://arxiv.org/abs/1706.04223)[[code]](https://github.com/jakezhaojb/ARAE)
+      * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
+    * Toward Controlled Generation of Text [[pdf]](https://arxiv.org/abs/1703.00955)[[code]](https://github.com/wiseodd/controlled-text-generation)
+      * Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing *ICML 2017*
+
 ### GAN based (Adversarial Learining)
 #### Image to text
    * Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shetty_Speaking_the_Same_ICCV_2017_paper.pdf)
