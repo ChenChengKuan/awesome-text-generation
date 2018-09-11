@@ -42,6 +42,8 @@ A curated list of recent awesome text generation model and their application. In
 and Applications of Deep Generative Models*
    * Variational Attention for Sequence-to-Sequence Models [[pdf]](https://arxiv.org/abs/1712.08207)[[code]](https://github.com/variational-attention/tf-var-attention)
       * Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, Pascal Poupart *COLING 2018*
+   * Generating Sentences by Editing Prototypes [[pdf]](https://arxiv.org/pdf/1709.08878.pdf)[[code]](https://github.com/kelvinguu/neural-editor)
+      * Kelvin Guu, Tatsunori B., Hashimoto Yonatan, Oren Percy Liang
    * A Hybrid Convolutional Variational Autoencoder for Text Generation [[pdf]](https://arxiv.org/abs/1702.02390)[[code]](https://github.com/ryokamoi/hybrid_textvae)
       * Stanislau Semeniuta, Aliaksei Severyn, Erhardt Barth *EMNLP 2017*
    * Piecewise Latent Variables for Neural Variational Text Processing [[pdf]](https://www.aclweb.org/anthology/D17-1043)
