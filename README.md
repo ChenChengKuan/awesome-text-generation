@@ -35,6 +35,8 @@ A curated list of recent awesome text generation model and their application. In
       * Youssef Mroueh, Chun-Liang Li, Tom Sercu, Anant Raj, Yu Cheng *ICLR 2018*
       
 ### VAE based
+   * Spherical Latent Spaces for Stable Variational Autoencoders. [[pdf]](https://arxiv.org/abs/1808.10805)[[code]](https://github.com/jiacheng-xu/vmf_vae_nlp)
+      * Jiacheng Xu and Greg Durrett *EMNLP 2018*
    * Semi-Amortized Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1802.02550.pdf)[[code]](https://github.com/harvardnlp/sa-vae)
       * Yoon Kim, Sam Wiseman, Andrew C. Miller, David Sontag, Alexander M. Rush *ICML 2018*
    * Avoiding Latent Variable Collapse with Generative Skip Models [[pdf]](https://arxiv.org/pdf/1807.04863.pdf)
@@ -43,7 +45,7 @@ and Applications of Deep Generative Models*
    * Variational Attention for Sequence-to-Sequence Models [[pdf]](https://arxiv.org/abs/1712.08207)[[code]](https://github.com/variational-attention/tf-var-attention)
       * Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, Pascal Poupart *COLING 2018*
    * Generating Sentences by Editing Prototypes [[pdf]](https://arxiv.org/pdf/1709.08878.pdf)[[code]](https://github.com/kelvinguu/neural-editor)
-      * Kelvin Guu, Tatsunori B., Hashimoto Yonatan, Oren Percy Liang
+      * Kelvin Guu, Tatsunori B., Hashimoto Yonatan, Oren Percy Liang *ACL 2018*
    * A Hybrid Convolutional Variational Autoencoder for Text Generation [[pdf]](https://arxiv.org/abs/1702.02390)[[code]](https://github.com/ryokamoi/hybrid_textvae)
       * Stanislau Semeniuta, Aliaksei Severyn, Erhardt Barth *EMNLP 2017*
    * Piecewise Latent Variables for Neural Variational Text Processing [[pdf]](https://www.aclweb.org/anthology/D17-1043)
