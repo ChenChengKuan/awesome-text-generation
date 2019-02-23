@@ -90,23 +90,21 @@ and Applications of Deep Generative Models*
       * Sidi Lu, Yaoming Zhu, Weinan Zhang, Jun Wang, Yong Yu *arxiv 2018*
 
 ## Applications
-### Reinforcement Learning based text generation
-#### Image to text
-
-   * Recurrent Topic-Transition GAN for Visual Paragraph Generation [[pdf]](https://arxiv.org/abs/1703.07022)
-      * Xiaodan Liang, Zhiting Hu, Hao Zhang, Chuang Gan, Eric P. Xing *ICCV 2017*
-   * Towards Diverse and Natural Image Descriptions via a Conditional GAN [[pdf]](https://arxiv.org/abs/1703.06029)
-      * Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin *ICCV 2017*
-   * Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner [[pdf]](https://arxiv.org/abs/1705.00930)[[code]](https://github.com/tsenghungchen/show-adapt-and-tell)
-      * Tseng-Hung Chen, Yuan-Hong Liao, Ching-Yao Chuang, Wan-Ting Hsu, Jianlong Fu, Min Sun *ICCV 2017*
-   * Improved Image Captioning via Policy Gradient optimization of SPIDEr [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Improved_Image_Captioning_ICCV_2017_paper.pdf)
-      * Liu, Siqi; Zhu, Zhenhai; Ye, Ning; Guadarrama, Sergio; Murphy, Kevin *ICCV 2017*
-
-#### Stylistic Text
+### Stylistic Text (transfer)
    *  SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks [[pdf]](https://www.ijcai.org/proceedings/2018/0618.pdf)
       * Ke Wang, Xiaojun Wan *IJCAI 2018*
+   * Adversarially Regularized Autoencoders for Generating Discrete Structures [[pdf]](https://arxiv.org/abs/1706.04223)[[code]](https://github.com/jakezhaojb/ARAE) (This is AE based ! Put here for the sake of simple hierarchy)
+      * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
+   * Toward Controlled Generation of Text [[pdf]](https://arxiv.org/abs/1703.00955)[[code]](https://github.com/wiseodd/controlled-text-generation)
+      * Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing *ICML 2017*
+   * Style Transfer Through Back-Translation [[pdf]](https://arxiv.org/pdf/1804.09000.pdf)
+      * Shrimai Prabhumoye, Yulia Tsvetkov, Ruslan Salakhutdinov, Alan W Black *ACL 2018*
+   * Style Transfer in Text: Exploration and Evaluation [[pdf]](https://arxiv.org/pdf/1711.06861.pdf)
+      * Zhenxin Fu, Xiaoye Tan, Nanyun Peng, Dongyan Zhao, Rui Yan *AAAI 2018*
+   * Style Transfer from Non-Parallel Text by Cross-Alignment [[pdf]](https://arxiv.org/abs/1705.09655)
+      * Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola *NIPS 2017*
 
-#### (Visual) Dialogue
+### (Visual) Dialogue
    * Discriminative Deep Dyna-Q: Robust Planning for Dialogue Policy Learning [[pdf]](https://arxiv.org/pdf/1808.09442.pdf)
       * Shang-Yu Su Xiujun Li Jianfeng Gao Jingjing Liu Yun-Nung Chen *EMNLP 2018*
    * Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning[[pdf]](https://arxiv.org/abs/1801.06176)
@@ -120,12 +118,6 @@ and Applications of Deep Generative Models*
 , Dhruv Batra1,4
    * Polite Dialogue Generation Without Parallel Data [[pdf]](https://arxiv.org/abs/1805.03162)
       * Tong Niu, Mohit Bansal *TACL 2018*
-#### Other
-   *  Generating Reasonable and Diversified Story Ending Using Sequence to Sequence Model with Adversarial Training [[pdf]](http://www.aclweb.org/anthology/C18-1088)
-      * Zhongyang Li, Xiao Ding and Ting Liu *COLING 2018*
-      
-### VAE based
-#### (Visual) Dialogue
    * Variational Autoregressive Decoder for Neural Response Generation [[paper]](Coming soon)
       * Jiachen Du, Wenjie Li, Yulan He, Ruifeng Xu, Lidong Bing and Xuan Wang *EMNLP 2018*
    * Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[pdf]](https://arxiv.org/pdf/1804.08069.pdf)
@@ -138,38 +130,32 @@ and Applications of Deep Generative Models*
       * Tiancheng Zhao, Ran Zhao and Maxine Eskenazi *ACL 2017*
    * A Conditional Variational Framework for Dialog Generation [[pdf]](https://arxiv.org/abs/1705.00316)
       * Xiaoyu Shen, Hui Su, Yanran Li, Wenjie Li, Shuzi Niu, Yang Zhao, Akiko Aizawa, Guoping Long *ACL 2017*
-#### Stylistic Text
-   * Adversarially Regularized Autoencoders for Generating Discrete Structures [[pdf]](https://arxiv.org/abs/1706.04223)[[code]](https://github.com/jakezhaojb/ARAE) (This is AE based ! Put here for the sake of simple hierarchy)
-      * Jake Zhao (Junbo), Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun *ICML 2018*
-   * Toward Controlled Generation of Text [[pdf]](https://arxiv.org/abs/1703.00955)[[code]](https://github.com/wiseodd/controlled-text-generation)
-      * Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing *ICML 2017*
 
-### GAN based (Adversarial Learining)
-#### Image to text
+### Image to text
+   * Recurrent Topic-Transition GAN for Visual Paragraph Generation [[pdf]](https://arxiv.org/abs/1703.07022)
+      * Xiaodan Liang, Zhiting Hu, Hao Zhang, Chuang Gan, Eric P. Xing *ICCV 2017*
+   * Towards Diverse and Natural Image Descriptions via a Conditional GAN [[pdf]](https://arxiv.org/abs/1703.06029)
+      * Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin *ICCV 2017*
+   * Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner [[pdf]](https://arxiv.org/abs/1705.00930)[[code]](https://github.com/tsenghungchen/show-adapt-and-tell)
+      * Tseng-Hung Chen, Yuan-Hong Liao, Ching-Yao Chuang, Wan-Ting Hsu, Jianlong Fu, Min Sun *ICCV 2017*
+   * Improved Image Captioning via Policy Gradient optimization of SPIDEr [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Improved_Image_Captioning_ICCV_2017_paper.pdf)
+      * Liu, Siqi; Zhu, Zhenhai; Ye, Ning; Guadarrama, Sergio; Murphy, Kevin *ICCV 2017*
    * Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shetty_Speaking_the_Same_ICCV_2017_paper.pdf)
       * Rakshith Shetty, Marcus Rohrbach, Lisa Anne Hendricks, Mario Fritz1 Bernt Schiele *ICCV 2017*
-#### Stylistic Text
-   * Style Transfer Through Back-Translation [[pdf]](https://arxiv.org/pdf/1804.09000.pdf)
-      * Shrimai Prabhumoye, Yulia Tsvetkov, Ruslan Salakhutdinov, Alan W Black *ACL 2018*
-   * Style Transfer in Text: Exploration and Evaluation [[pdf]](https://arxiv.org/pdf/1711.06861.pdf)
-      * Zhenxin Fu, Xiaoye Tan, Nanyun Peng, Dongyan Zhao, Rui Yan *AAAI 2018*
-   * Style Transfer from Non-Parallel Text by Cross-Alignment [[pdf]](https://arxiv.org/abs/1705.09655)
-      * Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola *NIPS 2017*
-      
-#### Other
+
+### Other
+   *  Generating Reasonable and Diversified Story Ending Using Sequence to Sequence Model with Adversarial Training [[pdf]](http://www.aclweb.org/anthology/C18-1088)
+      * Zhongyang Li, Xiao Ding and Ting Liu *COLING 2018*
    * Conditional Generative Adversarial Networks for Commonsense Machine Comprehension [[pdf]](https://www.ijcai.org/proceedings/2017/0576.pdf)
       * Bingning Wang, Kang Liu, Jun Zhao *IJCAI 2017*
    * Unsuprervised Cipher Cracking Using Discrete GANS [[pdf]](https://openreview.net/pdf?id=BkeqO7x0-)
       * Aidan N. Gomez, Sicong Huang, Ivan Zhang, Bryan M. Li, Muhammad Osama, Łukasz Kaiser *ICLR 2018*  
    * Multimodal Storytelling via Generative Adversarial Imitation Learning [[pdf]](https://www.ijcai.org/proceedings/2017/0554.pdf)
       * Zhiqian Chen, Xuchao Zhang, Arnold P. Boedihardjo, Jing Dai, Chang-Tien Lu1, *IJCAI 2017*
-      
- ### Other
    * Compositional Obverter Communication Learning From Raw Visual Input [[pdf]](https://arxiv.org/abs/1804.02341)
       * Edward Choi, Angeliki Lazaridou, Nando de Freitas *ICLR 2018*
    * Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory [[pdf]](https://arxiv.org/abs/1704.01074)
       * Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu *AAAI 2018*
-
 
 ## Contribution
 Please help contribute this list by contacting [me](https://kuanchen.netlify.com/) or add [pull request](https://github.com/ChenChengKuan/awesome-text-generation/pulls)
