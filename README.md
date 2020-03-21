@@ -37,8 +37,12 @@ A curated list (as of EMNLP 2018, will update to NeurIPS18 soon) of recent aweso
    *  MaskGAN: Better Text Generation via Filling in the______ (MaskGAN) (Jan 2018)  [[pdf]](https://arxiv.org/abs/1801.07736) [[arxive]](https://arxiv.org/abs/1801.07736)
    
    *  DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text(DP-GAN) (Feb 2018)  [[pdf]](https://arxiv.org/abs/1802.01345) [[arxive]](https://arxiv.org/abs/1802.01345)
+
+   *  SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks(SentiGAN) (2018)  [[pdf]](https://www.tensorinfinity.com/upload/files/20181227/1545889246130589.pdf)
    
-   *  RELGAN: RELATIONAL GENERATIVE ADVERSARIAL NETWORKS FOR TEXT GENERATION (RelGAN) (Feb 2019)  [[pdf]](https://openreview.net/pdf?id=rJedV3R5tm)
+   *  TextKD-GAN: Text Generation using KnowledgeDistillation and Generative Adversarial Networks (TextKD-GAN) (Apr 2019)  [[pdf]](https://arxiv.org/pdf/1905.0197) [[arxiv]](https://arxiv.org/abs/1905.0197)
+
+   *  RELGAN: RELATIONAL GENERATIVE ADVERSARIAL NETWORKS FOR TEXT GENERATION (RelGAN) (2019)  [[pdf]](https://openreview.net/pdf?id=rJedV3R5tm)
    
    *  Adversarial Feature Matching for Text Generation [[pdf]](https://arxiv.org/abs/1706.03850) [[code]](https://github.com/dreasysnail/textGAN_public)
       * Yizhe Zhang, Zhe Gan, Kai Fan, Zhi Chen, Ricardo Henao, Dinghan Shen, Lawrence Carin *ICML 2017*
