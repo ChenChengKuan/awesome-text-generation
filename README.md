@@ -25,8 +25,13 @@ A curated list (as of EMNLP 2018, will update to NeurIPS18 soon) of recent aweso
 
 ## Model
 ### GAN based
-   *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution (Gumbel-softmax GAN) [[pdf]](https://arxiv.org/pdf/1611.04051) [[arxive]](https://arxiv.org/abs/1611.04051)
+   *  SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient(SeqGAN) (Sep. 2016)  [[pdf]](https://arxiv.org/abs/1609.05473) [[arxive]](https://arxiv.org/abs/1609.05473)
+ 
+   *  GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution(Gumbel-softmax GAN) (Nov. 2016) [[pdf]](https://arxiv.org/pdf/1611.04051) [[arxive]](https://arxiv.org/abs/1611.04051)
       * Matt J. Kusner, José Miguel Hernández-Lobato *ICLR 2018*
+   
+   *  MaskGAN: Better Text Generation via Filling in the______ (MaskGAN) (Jan 2018)  [[pdf]](https://arxiv.org/abs/1801.07736) [[arxive]](https://arxiv.org/abs/1801.07736)
+
    *  Adversarial Feature Matching for Text Generation [[pdf]](https://arxiv.org/abs/1706.03850) [[code]](https://github.com/dreasysnail/textGAN_public)
       * Yizhe Zhang, Zhe Gan, Kai Fan, Zhi Chen, Ricardo Henao, Dinghan Shen, Lawrence Carin *ICML 2017*
    *  Improved Training of Wasserstein GANs [[pdf]](https://arxiv.org/abs/1704.00028)[[code]](https://github.com/igul222/improved_wgan_training)
